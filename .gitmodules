@@ -1,0 +1,3 @@
+[submodule "DCU_assignments"]
+	path = DCU_assignments
+	url = git@github.com:venkata-vazrala/DCU_assignments.git
